@@ -16,4 +16,4 @@ end
 
 test_array = ["Kayla","Nathan","Melanie","Mark"]
 
-print batch_badge_creator(test_array)
+print assign_rooms(test_array)
