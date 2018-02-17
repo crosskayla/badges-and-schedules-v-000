@@ -22,6 +22,3 @@ def printer(array)
     puts element
   end
 end
-
-test_array = ["Kayla","Nathan","Melanie","Mark"]
-print printer(test_array)
