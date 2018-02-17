@@ -16,9 +16,11 @@ end
 
 def printer(array)
   batch_badge_creator(array).each do |element|
-    deb
+    puts element
   end
-  puts assign_rooms(array)
+  assign_rooms(array).each do |element|
+    puts element
+  end
 end
 
 test_array = ["Kayla","Nathan","Melanie","Mark"]
