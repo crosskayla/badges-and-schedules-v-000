@@ -10,4 +10,4 @@ end
 
 test_array = ["Kayla","Nathan","Melanie","Mark"]
 
-puts batch_badge_creator(test_array)
+batch_badge_creator(test_array).inspect
