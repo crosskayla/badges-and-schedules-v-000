@@ -20,5 +20,4 @@ def printer(array)
 end
 
 test_array = ["Kayla","Nathan","Melanie","Mark"]
-
-print assign_rooms(test_array)
+print printer(test_array)
